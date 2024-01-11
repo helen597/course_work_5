@@ -1,0 +1,66 @@
+import json
+from abc import ABC, abstractmethod
+import requests
+from src.JSON_processor import JSONSaver
+from src.vacancy import Vacancy
+from src.employer import Employer
+
+
+class VacanciesAPI(ABC):
+
+    @abstractmethod
+    def get_vacancies(self, name):
+        pass
+
+    @abstractmethod
+    def save_vacancies_to_json(self):
+        pass
+
+    @abstractmethod
+    def get__employers(self):
+        pass
+
+    @abstractmethod
+    def save_employers_to_json(self):
+        pass
+
+
+class HeadHunterAPI(VacanciesAPI):
+    vacancies_url = 'https://api.hh.ru/vacancies'
+    employers_url = 'https://api.hh.ru/employers'
+
+    def get_vacancies(self, id_list):
+        """Получает вакансии с сайта"""
+        id_list = id_list.split(', ')
+        id_list = [int(i) for i in id_list]
+        response = requests.get(self.vacancies_url, params={'employer_id': id_list, 'per_page': 100})
+        return response.json()
+
+    def get_employers(self, city):
+        """Получает информацию о работодателях с сайта"""
+        response = requests.get(self.employers_url, params={'text': city, 'only_with_vacancies': True, 'per_page': 100})
+        print(response.json())
+        return response.json()
+
+    def save_vacancies_to_json(self, filename, data):
+        """Сохраняет вакансии в файл"""
+        for vacancy in data['items']:
+            name = vacancy['name']
+            url = vacancy['alternate_url']
+            salary = vacancy['salary']
+            requirements = vacancy['snippet']['requirement']
+            employer = vacancy['employer']['name']
+            description = vacancy['snippet']['responsibility']
+            new_vacancy = Vacancy(name, url, salary, requirements, employer, description)
+            JSONSaver.add_vacancy('hh_vacancies.json', new_vacancy)
+
+    def save_employers_to_json(self, filename, data):
+        """Сохраняет информацию о работодателях в файл"""
+        for employer in data['items']:
+            employer_id = employer['id']
+            name = employer['name']
+            # industries = employer['industries']
+            vacancies_count = employer['open_vacancies']
+            new_employer = Employer(employer_id, name, vacancies_count)
+            JSONSaver.add_vacancy(filename, new_employer)
+            print(new_employer)
