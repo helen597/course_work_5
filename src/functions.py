@@ -2,6 +2,7 @@ import json, os
 from src.vacancy import Vacancy
 from src.JSON_processor import JSONSaver
 from typing import Any
+from datetime import date
 # import psycopg2
 
 
@@ -89,7 +90,45 @@ def get_data(hh_employers, hh_vacancies, employers_id_list: list[int]) -> list[d
 
 def create_database(database_name: str, params: dict) -> None:
     """Создание базы данных с информацией о вакансиях и работодателях"""
-    pass
+    conn = psycopg2.connect(dbname='postgres', **params)
+    conn.autocommit = True
+    cur = conn.cursor()
+
+    cur.execute(f"DROP DATABASE {database_name}")
+    cur.execute(f"CREATE DATABASE {database_name}")
+
+    conn.close()
+
+    conn = psycopg2.connect(dbname=database_name, **params)
+    try:
+        with conn:
+            with conn.cursor() as cur:
+                cur.execute("""
+                    CREATE TABLE vacancies (
+                        id smallint SERIAL PRIMARY KEY,
+                        title varchar(100) NOT NULL,
+                        employer_id smallint REFERENCES employers(employer_id), 
+                        publish_date date NOT NULL,
+                        url varchar(100) NOT NULL, 
+                        salary_from smallint,
+                        salary_to smallint,
+                        salary_currency varchar(3)
+                        salary_gross boolean,
+                        requirements text, 
+                        description text
+                    )
+                """)
+
+            with conn.cursor() as cur:
+                cur.execute("""
+                    CREATE TABLE employers (
+                        employer_id smallint PRIMARY KEY,
+                        name NOT NULL,
+                        vacancies_count NOT NULL
+                    )
+                """)
+    finally:
+        conn.close()
 
 
 def save_data_to_database(database_name: str, data: list[dict[str, Any]], params: dict) -> None:
