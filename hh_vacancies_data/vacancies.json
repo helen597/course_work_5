@@ -1,0 +1,2183 @@
+{
+  'items': [
+    {
+      'id': '91243744',
+      'premium': False,
+      'name': 'Помощник руководителя/секретарь',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '72',
+        'name': 'Пермь',
+        'url': 'https://api.hh.ru/areas/72'
+      },
+      'salary': {
+        'from': 40000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Пермь',
+        'street': 'бульвар Гагарина',
+        'building': '75А',
+        'lat': 58.000884,
+        'lng': 56.288759,
+        'description': None,
+        'raw': 'Пермь, бульвар Гагарина, 75А',
+        'metro': None,
+        'metro_stations': [],
+        'id': '13913930'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-08T16:58:31+0300',
+      'created_at': '2024-01-08T16:58:31+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91243744',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91243744?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91243744',
+      'relations': [],
+      'employer': {
+        'id': '10138825',
+        'name': 'МАОУ Школа дизайна Точка Г. Перми',
+        'url': 'https://api.hh.ru/employers/10138825',
+        'alternate_url': 'https://hh.ru/employer/10138825',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10138825',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Коммуникабельность. Опыт работы в данной должности. Готовность учиться.',
+        'responsibility': 'Работа с электронным документооборотом. Ведение номенклатурной документации. Входящая и исходящая корреспонденция. Работа с электронной почтой, ведение приема посетителей. Планирование встреч.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '110',
+          'name': 'Секретарь, помощник руководителя, ассистент'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '89772783',
+      'premium': False,
+      'name': 'Начальник отдела ОТ ПБ И ООС- заместитель главного инженера по ПБ',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1050',
+        'name': 'Ухта',
+        'url': 'https://api.hh.ru/areas/1050'
+      },
+      'salary': {
+        'from': 300000,
+        'to': 309000,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'посёлок городского типа Ярега',
+        'street': None,
+        'building': None,
+        'lat': 63.434625,
+        'lng': 53.57759,
+        'description': None,
+        'raw': 'посёлок городского типа Ярега',
+        'metro': None,
+        'metro_stations': [],
+        'id': '852995'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-22T11:15:32+0300',
+      'created_at': '2023-12-22T11:15:32+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=89772783',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/89772783?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/89772783',
+      'relations': [],
+      'employer': {
+        'id': '550628',
+        'name': 'ЛУКОЙЛ-ПЕРМЬ',
+        'url': 'https://api.hh.ru/employers/550628',
+        'alternate_url': 'https://hh.ru/employer/550628',
+        'logo_urls': {
+          'original': 'https://hhcdn.ru/employer-logo-original/1212337.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/6469798.jpeg',
+          '90': 'https://hhcdn.ru/employer-logo/6469797.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=550628',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Высшее профессиональное ( техническое) образование и переподготовка в области промышленной безопасности и охраны труда. Стаж работы по направлению деятельности на итр...',
+        'responsibility': 'Обязанности: 1. Осуществляет руководство отделом. Организует и координирует работу по охране труда в организации. Определяет и систематически корректирует направления развития...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'moreThan6',
+        'name': 'Более 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '90908990',
+      'premium': False,
+      'name': 'Менеджер по поиску проектов',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '2823',
+        'name': 'Гардабани',
+        'url': 'https://api.hh.ru/areas/2823'
+      },
+      'salary': {
+        'from': 700,
+        'to': 800,
+        'currency': 'USD',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-21T15:00:27+0300',
+      'created_at': '2023-12-21T15:00:27+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=90908990',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/90908990?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/90908990',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт в продажах и опыт холодного общения. Умение налаживать контакты, выстраивать коммуникации. Умение планировать, определять приоритетные задачи и следовать намеченному...',
+        'responsibility': 'Поиск проектов (потенциальных партнеров), с помощью различных подходов, включая социальные сети, мессенджеры, веб-сайты и т.д. Первичный контакт с...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '89889645',
+      'premium': False,
+      'name': 'Руководитель группы производственного контроля',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1050',
+        'name': 'Ухта',
+        'url': 'https://api.hh.ru/areas/1050'
+      },
+      'salary': {
+        'from': 190000,
+        'to': 198000,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'посёлок городского типа Ярега',
+        'street': None,
+        'building': None,
+        'lat': 63.434625,
+        'lng': 53.57759,
+        'description': None,
+        'raw': 'посёлок городского типа Ярега',
+        'metro': None,
+        'metro_stations': [],
+        'id': '852995'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-24T14:37:29+0300',
+      'created_at': '2023-12-24T14:37:29+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=89889645',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/89889645?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/89889645',
+      'relations': [],
+      'employer': {
+        'id': '550628',
+        'name': 'ЛУКОЙЛ-ПЕРМЬ',
+        'url': 'https://api.hh.ru/employers/550628',
+        'alternate_url': 'https://hh.ru/employer/550628',
+        'logo_urls': {
+          'original': 'https://hhcdn.ru/employer-logo-original/1212337.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/6469798.jpeg',
+          '90': 'https://hhcdn.ru/employer-logo/6469797.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=550628',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Наличием сертификатов соответствия требованиям промышленной безопасности на применяемые технические устройства. Высшее профессиональное (техническое) образование. Стаж работы на ИТР и руководящих...',
+        'responsibility': 'Для выполнения задачи Группы «Организация эффективной работы по обеспечению соблюдения требований промышленной безопасности в НШПП, созданию и обеспечению здоровых и...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '90471888',
+      'premium': False,
+      'name': 'Специалист тендерного отдела',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '72',
+        'name': 'Пермь',
+        'url': 'https://api.hh.ru/areas/72'
+      },
+      'salary': {
+        'from': 50000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Пермь',
+        'street': 'Маршрутная улица',
+        'building': '11',
+        'lat': 57.981659,
+        'lng': 56.241993,
+        'description': None,
+        'raw': 'Пермь, Маршрутная улица, 11',
+        'metro': None,
+        'metro_stations': [],
+        'id': '1074774'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-08T10:05:16+0300',
+      'created_at': '2023-12-08T10:05:16+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=90471888',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/90471888?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/90471888',
+      'relations': [],
+      'employer': {
+        'id': '927820',
+        'name': 'Дата-Пермь',
+        'url': 'https://api.hh.ru/employers/927820',
+        'alternate_url': 'https://hh.ru/employer/927820',
+        'logo_urls': {
+          '90': 'https://hhcdn.ru/employer-logo/2131466.jpeg',
+          'original': 'https://hhcdn.ru/employer-logo-original/422348.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/2131467.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=927820',
+        'accredited_it_employer': True,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Техническое образование. Свободное "плавание" в слаботочном инженерном оборудовании. Аккуратность и ответственность. Амбициозность.',
+        'responsibility': 'Работа с новыми заявками на поставку оборудования, материалов и выполнения работ по гос.заказчикам по 44 и 223 ФЗ. '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': True,
+      'professional_roles': [
+        {
+          'id': '119',
+          'name': 'Специалист по тендерам'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '90727584',
+      'premium': False,
+      'name': 'Инженер по промышленной безопасности',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1050',
+        'name': 'Ухта',
+        'url': 'https://api.hh.ru/areas/1050'
+      },
+      'salary': {
+        'from': 70000,
+        'to': 75000,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'посёлок городского типа Ярега',
+        'street': None,
+        'building': None,
+        'lat': 63.434625,
+        'lng': 53.57759,
+        'description': None,
+        'raw': 'посёлок городского типа Ярега',
+        'metro': None,
+        'metro_stations': [],
+        'id': '852995'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-14T11:45:14+0300',
+      'created_at': '2024-01-14T11:45:14+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=90727584',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/90727584?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/90727584',
+      'relations': [],
+      'employer': {
+        'id': '550628',
+        'name': 'ЛУКОЙЛ-ПЕРМЬ',
+        'url': 'https://api.hh.ru/employers/550628',
+        'alternate_url': 'https://hh.ru/employer/550628',
+        'logo_urls': {
+          'original': 'https://hhcdn.ru/employer-logo-original/1212337.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/6469798.jpeg',
+          '90': 'https://hhcdn.ru/employer-logo/6469797.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=550628',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Высшее профессиональное (профильное) образование.',
+        'responsibility': '1. Участвовать в комплексных проверках и проводить целевые, внеплановые проверки состояния охраны труда, промышленной, пожарной и экологической безопасности, санитарных правил...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '45',
+          'name': 'Инженер по охране труда и технике безопасности, инженер-эколог'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91166839',
+      'premium': False,
+      'name': 'Affiliate onboarding activation manager',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '245',
+        'name': 'Камбоджа',
+        'url': 'https://api.hh.ru/areas/245'
+      },
+      'salary': {
+        'from': 800,
+        'to': 1300,
+        'currency': 'USD',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-02T18:58:21+0300',
+      'created_at': '2024-01-02T18:58:21+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91166839',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91166839?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91166839',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Excellent MS Office knowledge. - Excellent verbal and written communication skills. - Excellent organisational skills and ability to multitask. - Ability to be...',
+        'responsibility': 'Build up the network of potential partners; hold entertainment events for the network’s development. - Hold meetings with potential partners. - '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '71',
+          'name': 'Менеджер по работе с партнерами'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91378005',
+      'premium': False,
+      'name': 'Специалист по финансовому мониторингу',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '72',
+        'name': 'Пермь',
+        'url': 'https://api.hh.ru/areas/72'
+      },
+      'salary': {
+        'from': 45000,
+        'to': 49000,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Пермь',
+        'street': 'улица Куйбышева',
+        'building': '10',
+        'lat': 58.01246170294687,
+        'lng': 56.23312229695826,
+        'description': None,
+        'raw': 'Пермь, улица Куйбышева, 10',
+        'metro': None,
+        'metro_stations': [],
+        'id': '1714383'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-10T12:39:52+0300',
+      'created_at': '2024-01-10T12:39:52+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91378005',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91378005?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91378005',
+      'relations': [],
+      'employer': {
+        'id': '3591994',
+        'name': 'Банк Пермь',
+        'url': 'https://api.hh.ru/employers/3591994',
+        'alternate_url': 'https://hh.ru/employer/3591994',
+        'logo_urls': {
+          'original': 'https://hhcdn.ru/employer-logo-original/565483.png',
+          '90': 'https://hhcdn.ru/employer-logo/2703401.png',
+          '240': 'https://hhcdn.ru/employer-logo/2703402.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3591994',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Высшее экономическое или юридическое образование. Опыт работы в банке не менее 1 года, желательно в ПОД/ФТ, СВК, СВА. ',
+        'responsibility': 'Составление ежедневной отчетности в Росфинмониторинг и Банк России. Ведение и обновление анкет клиентов. Мониторинг банковских операций.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91146402',
+      'premium': False,
+      'name': 'Координатор контроля системы внутрикорпоративной отчетности сотрудников',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '2792',
+        'name': 'Каракол',
+        'url': 'https://api.hh.ru/areas/2792'
+      },
+      'salary': {
+        'from': 700,
+        'to': 800,
+        'currency': 'USD',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-29T14:31:33+0300',
+      'created_at': '2023-12-29T14:31:33+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91146402',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91146402?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91146402',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы координатором. Сильные коммуникативные навыки, аналитический склад ума. Структурированность. Ответственность, проактивность, ориентированность на результат, ориентированность на будущее. ',
+        'responsibility': 'Сопровождение систем внутрикорпоративной отчетности по KPI и учету рабочего времени. Разработка и контроль следования стандартам отчетности. Обеспечение контроля эффективности использования...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '85318242',
+      'premium': False,
+      'name': 'HR менеджер',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '72',
+        'name': 'Пермь',
+        'url': 'https://api.hh.ru/areas/72'
+      },
+      'salary': {
+        'from': 45000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Пермь',
+        'street': 'улица Чернышевского',
+        'building': None,
+        'lat': 57.99755,
+        'lng': 56.266508,
+        'description': None,
+        'raw': 'Пермь, улица Чернышевского',
+        'metro': None,
+        'metro_stations': [],
+        'id': '3525402'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-12T10:36:38+0300',
+      'created_at': '2024-01-12T10:36:38+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=85318242',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/85318242?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/85318242',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Умение работать с большим объемом информации. Владение современными технологиями поиска. Ориентация на результат и качество работы. Готовность работать в режиме...',
+        'responsibility': 'Поиск и подбор специалистов на различные проекты. Выбор стратегии поиска на открытые вакансии. Размещение вакансий в открытых источниках. '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': True,
+      'professional_roles': [
+        {
+          'id': '118',
+          'name': 'Специалист по подбору персонала'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '90818088',
+      'premium': False,
+      'name': 'Главный механик-руководитель группы',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1050',
+        'name': 'Ухта',
+        'url': 'https://api.hh.ru/areas/1050'
+      },
+      'salary': {
+        'from': 260000,
+        'to': 268000,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'посёлок городского типа Ярега',
+        'street': None,
+        'building': None,
+        'lat': 63.434625,
+        'lng': 53.57759,
+        'description': None,
+        'raw': 'посёлок городского типа Ярега',
+        'metro': None,
+        'metro_stations': [],
+        'id': '852995'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-19T09:36:32+0300',
+      'created_at': '2023-12-19T09:36:32+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=90818088',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/90818088?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/90818088',
+      'relations': [],
+      'employer': {
+        'id': '550628',
+        'name': 'ЛУКОЙЛ-ПЕРМЬ',
+        'url': 'https://api.hh.ru/employers/550628',
+        'alternate_url': 'https://hh.ru/employer/550628',
+        'logo_urls': {
+          'original': 'https://hhcdn.ru/employer-logo-original/1212337.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/6469798.jpeg',
+          '90': 'https://hhcdn.ru/employer-logo/6469797.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=550628',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Высшее профессиональное техническое профильное образование. Стаж работы на ИТР и руководящих должностях не менее 5 лет.',
+        'responsibility': 'Главный механик обязан: Обеспечивать выполнение функциональных обязанностей, предусмотренных положением о Группе. Обеспечивать бесперебойную и технически правильную эксплуатацию оборудования* в структурных...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '90471885',
+      'premium': False,
+      'name': 'Монтажник слаботочных систем',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '72',
+        'name': 'Пермь',
+        'url': 'https://api.hh.ru/areas/72'
+      },
+      'salary': {
+        'from': 60000,
+        'to': None,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Пермь',
+        'street': 'Маршрутная улица',
+        'building': '11',
+        'lat': 57.981659,
+        'lng': 56.241993,
+        'description': None,
+        'raw': 'Пермь, Маршрутная улица, 11',
+        'metro': None,
+        'metro_stations': [],
+        'id': '1074774'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-08T10:05:15+0300',
+      'created_at': '2023-12-08T10:05:15+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=90471885',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/90471885?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/90471885',
+      'relations': [],
+      'employer': {
+        'id': '927820',
+        'name': 'Дата-Пермь',
+        'url': 'https://api.hh.ru/employers/927820',
+        'alternate_url': 'https://hh.ru/employer/927820',
+        'logo_urls': {
+          '90': 'https://hhcdn.ru/employer-logo/2131466.jpeg',
+          'original': 'https://hhcdn.ru/employer-logo-original/422348.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/2131467.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=927820',
+        'accredited_it_employer': True,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Знание систем ОПС, СКУД, Видеонаблюдение и др.. Опыт работы в данной сфере. Уверенный пользователь ПК. Ответственность, исполнительность, аккуратность.',
+        'responsibility': 'Монтаж и ПНР оборудования слаботочных систем безопасности (видеонаблюдение, скуд, EAS, СПП), кабельных трасс. Обследование объектов на предмет установки систем безопасности. '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': True,
+      'professional_roles': [
+        {
+          'id': '111',
+          'name': 'Сервисный инженер, инженер-механик'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '90997060',
+      'premium': False,
+      'name': 'Администратор бизнес-процессов в отдел маркетинга',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '2822',
+        'name': 'Боржоми',
+        'url': 'https://api.hh.ru/areas/2822'
+      },
+      'salary': {
+        'from': 650,
+        'to': 800,
+        'currency': 'USD',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-25T16:15:33+0300',
+      'created_at': '2023-12-25T16:15:33+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=90997060',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/90997060?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/90997060',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы в администрировании бизнес-процессов или маркетинге. Знание методологий оптимизации бизнес-процессов. Навыки анализа данных и использования инструментов, таких...',
+        'responsibility': 'Анализ и оптимизация бизнес-процессов в отделе маркетинга для повышения эффективности и эффективности работы. Разработка и внедрение новых процессов и...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '70',
+          'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '89772847',
+      'premium': False,
+      'name': 'Ведущий инженер производственного отдела обустройства месторождений',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1050',
+        'name': 'Ухта',
+        'url': 'https://api.hh.ru/areas/1050'
+      },
+      'salary': {
+        'from': 120000,
+        'to': 124000,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'посёлок городского типа Ярега',
+        'street': None,
+        'building': None,
+        'lat': 63.434625,
+        'lng': 53.57759,
+        'description': None,
+        'raw': 'посёлок городского типа Ярега',
+        'metro': None,
+        'metro_stations': [],
+        'id': '852995'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-22T11:15:54+0300',
+      'created_at': '2023-12-22T11:15:54+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=89772847',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/89772847?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/89772847',
+      'relations': [],
+      'employer': {
+        'id': '550628',
+        'name': 'ЛУКОЙЛ-ПЕРМЬ',
+        'url': 'https://api.hh.ru/employers/550628',
+        'alternate_url': 'https://hh.ru/employer/550628',
+        'logo_urls': {
+          'original': 'https://hhcdn.ru/employer-logo-original/1212337.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/6469798.jpeg',
+          '90': 'https://hhcdn.ru/employer-logo/6469797.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=550628',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Требования: Высшее профессиональное (техническое, профильное) образование и стаж работы по специальности в соответствующей профилю предприятия отрасли не менее 5 лет.',
+        'responsibility': '1. Осуществлять подготовку документов для проведения тендерных процедур (составление дефектных актов, ведомостей объемов работ, общих сведений об объекте и предмете...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91072512',
+      'premium': False,
+      'name': 'Инженер по автоматизированным системам управления производством 1 категории КЦДНГ-1',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1049',
+        'name': 'Усинск',
+        'url': 'https://api.hh.ru/areas/1049'
+      },
+      'salary': {
+        'from': None,
+        'to': 135240,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Усинск',
+        'street': 'Транспортная улица',
+        'building': '4',
+        'lat': 66.004617,
+        'lng': 57.520035,
+        'description': None,
+        'raw': 'Усинск, Транспортная улица, 4',
+        'metro': None,
+        'metro_stations': [],
+        'id': '11711008'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-27T10:07:49+0300',
+      'created_at': '2023-12-27T10:07:49+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91072512',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91072512?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91072512',
+      'relations': [],
+      'employer': {
+        'id': '550628',
+        'name': 'ЛУКОЙЛ-ПЕРМЬ',
+        'url': 'https://api.hh.ru/employers/550628',
+        'alternate_url': 'https://hh.ru/employer/550628',
+        'logo_urls': {
+          'original': 'https://hhcdn.ru/employer-logo-original/1212337.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/6469798.jpeg',
+          '90': 'https://hhcdn.ru/employer-logo/6469797.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=550628',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Высшее профессиональное образование, Электропривод и автоматика промышленных установок и технологических комплексов, стаж работ по специальности в должности инженера по АСУП...',
+        'responsibility': '1.Выдавать предложения, разрабатывать мероприятия по улучшению качества. Технического обслуживания средств измерений и средств автоматизации, по. Повышению уровня замеряемости и телемеханизации...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91088500',
+      'premium': False,
+      'name': 'Интернет-маркетолог',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '2860',
+        'name': 'Булунгур',
+        'url': 'https://api.hh.ru/areas/2860'
+      },
+      'salary': {
+        'from': 700,
+        'to': 800,
+        'currency': 'USD',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-27T15:54:31+0300',
+      'created_at': '2023-12-27T15:54:31+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91088500',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91088500?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91088500',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы в данной сфере от 1 года. Опыт оптимизации рекламных кампаний. Обучения ИИ рекламных систем Google Adwords, Facebook, Criteo...',
+        'responsibility': 'Работа с системами таргетированной рекламы (AdWords, FB, Instagram, ЯндексДирект, ВК и другими). Написание продающих текстов для объявлений, статей, лендингов. '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '68',
+          'name': 'Менеджер по маркетингу, интернет-маркетолог'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '90818106',
+      'premium': False,
+      'name': 'Ведущий инженер ЦИТС (теплотехника, энергетика)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1050',
+        'name': 'Ухта',
+        'url': 'https://api.hh.ru/areas/1050'
+      },
+      'salary': {
+        'from': 140000,
+        'to': 150000,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'посёлок городского типа Ярега',
+        'street': None,
+        'building': None,
+        'lat': 63.434625,
+        'lng': 53.57759,
+        'description': None,
+        'raw': 'посёлок городского типа Ярега',
+        'metro': None,
+        'metro_stations': [],
+        'id': '852995'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-19T09:36:57+0300',
+      'created_at': '2023-12-19T09:36:57+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=90818106',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/90818106?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/90818106',
+      'relations': [],
+      'employer': {
+        'id': '550628',
+        'name': 'ЛУКОЙЛ-ПЕРМЬ',
+        'url': 'https://api.hh.ru/employers/550628',
+        'alternate_url': 'https://hh.ru/employer/550628',
+        'logo_urls': {
+          'original': 'https://hhcdn.ru/employer-logo-original/1212337.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/6469798.jpeg',
+          '90': 'https://hhcdn.ru/employer-logo/6469797.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=550628',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Требования: высшее профессиональное (техническое) образование и стаж работы в должности инженера по эксплуатации теплотехнического оборудования 1 категории не менее 3...',
+        'responsibility': 'Обеспечивать контроль за эксплуатацией котельного и водоподготовительного оборудования в соответствии с требованиями нормативных документов в области котлонадзора, соблюдением требований правил...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91473019',
+      'premium': False,
+      'name': 'Менеджер по внедрению партнерских программ',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '2814',
+        'name': 'Батуми',
+        'url': 'https://api.hh.ru/areas/2814'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-11T15:17:02+0300',
+      'created_at': '2024-01-11T15:17:02+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91473019',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91473019?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91473019',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы в продажах (желательно холодных). Достижение определенных результатов в сфере. Опыт ведения переговоров с клиентами и партнерами. ',
+        'responsibility': 'Установление личных контактов и доверительных отношений, направленных на повышение узнаваемости компании. Поиск и привлечение новых партнеров посредством социальных сетей, мессенджеров...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '71',
+          'name': 'Менеджер по работе с партнерами'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91475371',
+      'premium': False,
+      'name': 'Специалист по продажам',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '2814',
+        'name': 'Батуми',
+        'url': 'https://api.hh.ru/areas/2814'
+      },
+      'salary': {
+        'from': 40000,
+        'to': 120000,
+        'currency': 'RUR',
+        'gross': True
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-11T15:36:42+0300',
+      'created_at': '2024-01-11T15:36:42+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91475371',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91475371?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91475371',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы в продажах. Умение выявлять потребности клиента и презентовать услуги. Развитые коммуникативные навыки. Умение самостоятельно организовывать рабочий процесс. ',
+        'responsibility': 'Работа на входящих и исходящих линиях коммуникации с клиентами. Работа с клиентской базой и поддержание ее в актуальном состоянии. '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '70',
+          'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91475315',
+      'premium': False,
+      'name': 'Эксперт по продажам',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '2814',
+        'name': 'Батуми',
+        'url': 'https://api.hh.ru/areas/2814'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-11T15:36:10+0300',
+      'created_at': '2024-01-11T15:36:10+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91475315',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91475315?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91475315',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Успешный опыт работы в продажах. Умение легко устанавливать контакт и располагать к себе. Нацеленность на результат. Умеете работать в режиме...',
+        'responsibility': 'Увеличение продаж в своем сегменте. Поиск и привлечение новых клиентов. Расширение клиентской базы. Выявление потребностей клиента. Ведение переговоров, презентация продуктов...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91146401',
+      'premium': False,
+      'name': 'Координатор контроля системы внутрикорпоративной отчетности сотрудников',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '2768',
+        'name': 'Андижан',
+        'url': 'https://api.hh.ru/areas/2768'
+      },
+      'salary': {
+        'from': 700,
+        'to': 800,
+        'currency': 'USD',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-29T14:31:33+0300',
+      'created_at': '2023-12-29T14:31:33+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91146401',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91146401?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91146401',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы координатором. Сильные коммуникативные навыки, аналитический склад ума. Структурированность. Ответственность, проактивность, ориентированность на результат, ориентированность на будущее. ',
+        'responsibility': 'Сопровождение систем внутрикорпоративной отчетности по KPI и учету рабочего времени. Разработка и контроль следования стандартам отчетности. Обеспечение контроля эффективности использования...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91031218',
+      'premium': False,
+      'name': 'Продавец-консультант',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '72',
+        'name': 'Пермь',
+        'url': 'https://api.hh.ru/areas/72'
+      },
+      'salary': {
+        'from': 35000,
+        'to': 60000,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Пермь',
+        'street': 'Петропавловская улица',
+        'building': '73А',
+        'lat': 58.011671,
+        'lng': 56.227278,
+        'description': None,
+        'raw': 'Пермь, Петропавловская улица, 73А',
+        'metro': None,
+        'metro_stations': [],
+        'id': '14863717'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-13T11:34:11+0300',
+      'created_at': '2024-01-13T11:34:11+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91031218',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91031218?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91031218',
+      'relations': [],
+      'employer': {
+        'id': '9430380',
+        'name': 'QWENTINY-PERM',
+        'url': 'https://api.hh.ru/employers/9430380',
+        'alternate_url': 'https://hh.ru/employer/9430380',
+        'logo_urls': {
+          'original': 'https://hhcdn.ru/employer-logo-original/1038116.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/5773221.jpeg',
+          '90': 'https://hhcdn.ru/employer-logo/5773220.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=9430380',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Если ты умеешь общаться и находить общий язык с людьми? Любишь все ,что связано с модой и стилем? ',
+        'responsibility': 'Консультация клиентов магазина. - Работа с кассой, ПК. -Развеска товара. -Соблюдение чистоты торгового зала и оборудования.'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '97',
+          'name': 'Продавец-консультант, продавец-кассир'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91146403',
+      'premium': False,
+      'name': 'Координатор контроля системы внутрикорпоративной отчетности сотрудников',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '152',
+        'name': 'Актау',
+        'url': 'https://api.hh.ru/areas/152'
+      },
+      'salary': {
+        'from': 700,
+        'to': 800,
+        'currency': 'USD',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-29T14:31:33+0300',
+      'created_at': '2023-12-29T14:31:33+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91146403',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91146403?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91146403',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы координатором. Сильные коммуникативные навыки, аналитический склад ума. Структурированность. Ответственность, проактивность, ориентированность на результат, ориентированность на будущее. ',
+        'responsibility': 'Сопровождение систем внутрикорпоративной отчетности по KPI и учету рабочего времени. Разработка и контроль следования стандартам отчетности. Обеспечение контроля эффективности использования...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'remote',
+        'name': 'Удаленная работа'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91242011',
+      'premium': False,
+      'name': 'Администратор в детский центр',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '72',
+        'name': 'Пермь',
+        'url': 'https://api.hh.ru/areas/72'
+      },
+      'salary': {
+        'from': 28000,
+        'to': 35000,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Пермь',
+        'street': 'улица Веры Засулич',
+        'building': '42А',
+        'lat': 57.971957,
+        'lng': 56.203257,
+        'description': None,
+        'raw': 'Пермь, улица Веры Засулич, 42А',
+        'metro': None,
+        'metro_stations': [],
+        'id': '2022047'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-01-11T15:17:35+0300',
+      'created_at': '2024-01-11T15:17:35+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91242011',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91242011?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91242011',
+      'relations': [],
+      'employer': {
+        'id': '3192921',
+        'name': 'Прогвартс Пермь',
+        'url': 'https://api.hh.ru/employers/3192921',
+        'alternate_url': 'https://hh.ru/employer/3192921',
+        'logo_urls': {
+          '90': 'https://hhcdn.ru/employer-logo/6297302.png',
+          'original': 'https://hhcdn.ru/employer-logo-original/1169216.png',
+          '240': 'https://hhcdn.ru/employer-logo/6297303.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3192921',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт в продажах как по телефону, так и при личном общении. Грамотная и красивая устная и письменная речь. ',
+        'responsibility': 'Консультирование клиентов по поводу тех занятий и направлений, которые у нас есть. Заключение сделок, оформление продаж. Общение с мамами, выявление...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'shift',
+        'name': 'Сменный график'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '8',
+          'name': 'Администратор'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'noExperience',
+        'name': 'Нет опыта'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '91088501',
+      'premium': False,
+      'name': 'Интернет-маркетолог',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '2823',
+        'name': 'Гардабани',
+        'url': 'https://api.hh.ru/areas/2823'
+      },
+      'salary': {
+        'from': 700,
+        'to': 800,
+        'currency': 'USD',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-27T15:54:31+0300',
+      'created_at': '2023-12-27T15:54:31+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=91088501',
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/91088501?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/91088501',
+      'relations': [],
+      'employer': {
+        'id': '4069218',
+        'name': 'Инста Пермь',
+        'url': 'https://api.hh.ru/employers/4069218',
+        'alternate_url': 'https://hh.ru/employer/4069218',
+        'logo_urls': None,
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы в данной сфере от 1 года. Опыт оптимизации рекламных кампаний. Обучения ИИ рекламных систем Google Adwords, Facebook, Criteo...',
+        'responsibility': 'Работа с системами таргетированной рекламы (AdWords, FB, Instagram, ЯндексДирект, ВК и другими). Написание продающих текстов для объявлений, статей, лендингов. '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '68',
+          'name': 'Менеджер по маркетингу, интернет-маркетолог'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '89887509',
+      'premium': False,
+      'name': 'Ведущий инженер (контроль сварочных работ)',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1050',
+        'name': 'Ухта',
+        'url': 'https://api.hh.ru/areas/1050'
+      },
+      'salary': {
+        'from': 140000,
+        'to': 145000,
+        'currency': 'RUR',
+        'gross': False
+      },
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'посёлок городского типа Ярега',
+        'street': None,
+        'building': None,
+        'lat': 63.434625,
+        'lng': 53.57759,
+        'description': None,
+        'raw': 'посёлок городского типа Ярега',
+        'metro': None,
+        'metro_stations': [],
+        'id': '852995'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2023-12-24T14:09:38+0300',
+      'created_at': '2023-12-24T14:09:38+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=89887509',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/89887509?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/89887509',
+      'relations': [],
+      'employer': {
+        'id': '550628',
+        'name': 'ЛУКОЙЛ-ПЕРМЬ',
+        'url': 'https://api.hh.ru/employers/550628',
+        'alternate_url': 'https://hh.ru/employer/550628',
+        'logo_urls': {
+          'original': 'https://hhcdn.ru/employer-logo-original/1212337.jpg',
+          '240': 'https://hhcdn.ru/employer-logo/6469798.jpeg',
+          '90': 'https://hhcdn.ru/employer-logo/6469797.jpeg'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=550628',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Требования: высшее профессиональное (техническое) образование и стаж работы по специальности на инженерно-технических должностях не менее 5 лет.',
+        'responsibility': 'Разрабатывать технологические инструкции и технические карты сварки, в том числе маршрутные и операционные. Осуществлять контроль за соблюдением технологии сварки на...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    }
+  ],
+  'found': 26,
+  'pages': 1,
+  'page': 0,
+  'per_page': 100,
+  'clusters': None,
+  'arguments': None,
+  'fixes': None,
+  'suggests': None,
+  'alternate_url': 'https://hh.ru/search/vacancy?employer_id=9430380&employer_id=3591994&employer_id=927820&employer_id=3192921&employer_id=4069218&employer_id=550628&employer_id=10138825&enable_snippets=true&items_on_page=100'
+}

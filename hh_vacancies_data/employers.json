@@ -1,0 +1,786 @@
+{
+  'items': [
+    {
+      'id': '10656413',
+      'name': 'Cafe craft Perm (ИП Жилина Екатерина Сергеевна)',
+      'url': 'https://api.hh.ru/employers/10656413',
+      'alternate_url': 'https://hh.ru/employer/10656413',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10656413',
+      'open_vacancies': 1
+    },
+    {
+      'id': '9200839',
+      'name': 'EVN-Perm',
+      'url': 'https://api.hh.ru/employers/9200839',
+      'alternate_url': 'https://hh.ru/employer/9200839',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=9200839',
+      'open_vacancies': 1
+    },
+    {
+      'id': '2499913',
+      'name': 'Holiday Inn Perm',
+      'url': 'https://api.hh.ru/employers/2499913',
+      'alternate_url': 'https://hh.ru/employer/2499913',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1144015.png',
+        '240': 'https://hhcdn.ru/employer-logo/6196630.png',
+        '90': 'https://hhcdn.ru/employer-logo/6196629.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2499913',
+      'open_vacancies': 1
+    },
+    {
+      'id': '9430380',
+      'name': 'QWENTINY-PERM',
+      'url': 'https://api.hh.ru/employers/9430380',
+      'alternate_url': 'https://hh.ru/employer/9430380',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1038116.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/5773221.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/5773220.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=9430380',
+      'open_vacancies': 1
+    },
+    {
+      'id': '2477801',
+      'name': 'Автопрестиж Пермь',
+      'url': 'https://api.hh.ru/employers/2477801',
+      'alternate_url': 'https://hh.ru/employer/2477801',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1192219.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/6389334.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/6389333.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2477801',
+      'open_vacancies': 1
+    },
+    {
+      'id': '1067325',
+      'name': 'Агентство ЛУКОМ-А-Пермь',
+      'url': 'https://api.hh.ru/employers/1067325',
+      'alternate_url': 'https://hh.ru/employer/1067325',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1067325',
+      'open_vacancies': 1
+    },
+    {
+      'id': '5208538',
+      'name': 'АЕ-ПЕРМЬ',
+      'url': 'https://api.hh.ru/employers/5208538',
+      'alternate_url': 'https://hh.ru/employer/5208538',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/853555.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/3855096.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/3855095.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5208538',
+      'open_vacancies': 1
+    },
+    {
+      'id': '3085702',
+      'name': 'Алгоритмика::Пермь (ООО Алгоритмика-Пермь)',
+      'url': 'https://api.hh.ru/employers/3085702',
+      'alternate_url': 'https://hh.ru/employer/3085702',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/869982.png',
+        '240': 'https://hhcdn.ru/employer-logo/3920804.png',
+        '90': 'https://hhcdn.ru/employer-logo/3920803.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3085702',
+      'open_vacancies': 1
+    },
+    {
+      'id': '4151530',
+      'name': 'А-СТРОЙ ПЕРМЬ',
+      'url': 'https://api.hh.ru/employers/4151530',
+      'alternate_url': 'https://hh.ru/employer/4151530',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/892561.png',
+        '240': 'https://hhcdn.ru/employer-logo/4010932.png',
+        '90': 'https://hhcdn.ru/employer-logo/4010931.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4151530',
+      'open_vacancies': 1
+    },
+    {
+      'id': '3591994',
+      'name': 'Банк Пермь',
+      'url': 'https://api.hh.ru/employers/3591994',
+      'alternate_url': 'https://hh.ru/employer/3591994',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/565483.png',
+        '240': 'https://hhcdn.ru/employer-logo/2703402.png',
+        '90': 'https://hhcdn.ru/employer-logo/2703401.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3591994',
+      'open_vacancies': 1
+    },
+    {
+      'id': '4424983',
+      'name': 'БВБ-Альянс-Пермь',
+      'url': 'https://api.hh.ru/employers/4424983',
+      'alternate_url': 'https://hh.ru/employer/4424983',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/703150.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/3253717.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/3253716.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4424983',
+      'open_vacancies': 2
+    },
+    {
+      'id': '3673401',
+      'name': 'ГКУСО ПК СРЦН Г. ПЕРМИ',
+      'url': 'https://api.hh.ru/employers/3673401',
+      'alternate_url': 'https://hh.ru/employer/3673401',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3673401',
+      'open_vacancies': 2
+    },
+    {
+      'id': '1511563',
+      'name': 'ГНГ-Пермь',
+      'url': 'https://api.hh.ru/employers/1511563',
+      'alternate_url': 'https://hh.ru/employer/1511563',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/775451.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/3542696.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/3542695.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1511563',
+      'open_vacancies': 1
+    },
+    {
+      'id': '927820',
+      'name': 'Дата-Пермь',
+      'url': 'https://api.hh.ru/employers/927820',
+      'alternate_url': 'https://hh.ru/employer/927820',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/422348.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/2131467.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/2131466.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=927820',
+      'open_vacancies': 2
+    },
+    {
+      'id': '4827169',
+      'name': 'ДГА администрации г. Перми',
+      'url': 'https://api.hh.ru/employers/4827169',
+      'alternate_url': 'https://hh.ru/employer/4827169',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/764443.png',
+        '240': 'https://hhcdn.ru/employer-logo/3498730.png',
+        '90': 'https://hhcdn.ru/employer-logo/3498729.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4827169',
+      'open_vacancies': 1
+    },
+    {
+      'id': '3283270',
+      'name': 'Департамент земельных отношений администрации г. Перми',
+      'url': 'https://api.hh.ru/employers/3283270',
+      'alternate_url': 'https://hh.ru/employer/3283270',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3283270',
+      'open_vacancies': 2
+    },
+    {
+      'id': '2578962',
+      'name': 'Дзержинский районный суд города Перми',
+      'url': 'https://api.hh.ru/employers/2578962',
+      'alternate_url': 'https://hh.ru/employer/2578962',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2578962',
+      'open_vacancies': 1
+    },
+    {
+      'id': '4069218',
+      'name': 'Инста Пермь',
+      'url': 'https://api.hh.ru/employers/4069218',
+      'alternate_url': 'https://hh.ru/employer/4069218',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4069218',
+      'open_vacancies': 12
+    },
+    {
+      'id': '10443720',
+      'name': 'Италко-Пермь',
+      'url': 'https://api.hh.ru/employers/10443720',
+      'alternate_url': 'https://hh.ru/employer/10443720',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1181560.png',
+        '240': 'https://hhcdn.ru/employer-logo/6346667.png',
+        '90': 'https://hhcdn.ru/employer-logo/6346666.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10443720',
+      'open_vacancies': 1
+    },
+    {
+      'id': '1420628',
+      'name': 'Кафе & Бар Chocolate Пермь',
+      'url': 'https://api.hh.ru/employers/1420628',
+      'alternate_url': 'https://hh.ru/employer/1420628',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1420628',
+      'open_vacancies': 1
+    },
+    {
+      'id': '3223847',
+      'name': 'КГАУ КЦСЗН по городу Перми',
+      'url': 'https://api.hh.ru/employers/3223847',
+      'alternate_url': 'https://hh.ru/employer/3223847',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3223847',
+      'open_vacancies': 1
+    },
+    {
+      'id': '5046193',
+      'name': 'КЕРАМА-Пермь',
+      'url': 'https://api.hh.ru/employers/5046193',
+      'alternate_url': 'https://hh.ru/employer/5046193',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/909976.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/4080592.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/4080591.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5046193',
+      'open_vacancies': 1
+    },
+    {
+      'id': '3040213',
+      'name': 'Кировский районный суд г. Перми',
+      'url': 'https://api.hh.ru/employers/3040213',
+      'alternate_url': 'https://hh.ru/employer/3040213',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3040213',
+      'open_vacancies': 2
+    },
+    {
+      'id': '5491743',
+      'name': 'Клининговые услуги в г. Пермь Mr.FAPC',
+      'url': 'https://api.hh.ru/employers/5491743',
+      'alternate_url': 'https://hh.ru/employer/5491743',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/858461.jpeg',
+        '240': 'https://hhcdn.ru/employer-logo/3874720.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/3874719.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5491743',
+      'open_vacancies': 4
+    },
+    {
+      'id': '3259287',
+      'name': 'Компромисс Пермь',
+      'url': 'https://api.hh.ru/employers/3259287',
+      'alternate_url': 'https://hh.ru/employer/3259287',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3259287',
+      'open_vacancies': 1
+    },
+    {
+      'id': '550628',
+      'name': 'ЛУКОЙЛ-ПЕРМЬ',
+      'url': 'https://api.hh.ru/employers/550628',
+      'alternate_url': 'https://hh.ru/employer/550628',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1212337.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/6469798.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/6469797.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=550628',
+      'open_vacancies': 8
+    },
+    {
+      'id': '3856362',
+      'name': 'МАДОУ ДЕТСКИЙ САД № 317 Г.ПЕРМИ',
+      'url': 'https://api.hh.ru/employers/3856362',
+      'alternate_url': 'https://hh.ru/employer/3856362',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/613300.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/2894353.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/2894352.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3856362',
+      'open_vacancies': 1
+    },
+    {
+      'id': '5186172',
+      'name': 'МАДОУ Детский сад 418 г.Перми',
+      'url': 'https://api.hh.ru/employers/5186172',
+      'alternate_url': 'https://hh.ru/employer/5186172',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5186172',
+      'open_vacancies': 1
+    },
+    {
+      'id': '4348343',
+      'name': 'МАДОУ Детский сад № 419 г.Перми',
+      'url': 'https://api.hh.ru/employers/4348343',
+      'alternate_url': 'https://hh.ru/employer/4348343',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4348343',
+      'open_vacancies': 3
+    },
+    {
+      'id': '8966691',
+      'name': 'МАДОУ Центр развития ребенка - детский сад № 268 г.Перми',
+      'url': 'https://api.hh.ru/employers/8966691',
+      'alternate_url': 'https://hh.ru/employer/8966691',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=8966691',
+      'open_vacancies': 2
+    },
+    {
+      'id': '3696969',
+      'name': 'МАДОУ ЦРР - детский сад № 47 г. Перми',
+      'url': 'https://api.hh.ru/employers/3696969',
+      'alternate_url': 'https://hh.ru/employer/3696969',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3696969',
+      'open_vacancies': 1
+    },
+    {
+      'id': '3518930',
+      'name': 'МАОУ Гимназия №10 г.Перми',
+      'url': 'https://api.hh.ru/employers/3518930',
+      'alternate_url': 'https://hh.ru/employer/3518930',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3518930',
+      'open_vacancies': 3
+    },
+    {
+      'id': '4675267',
+      'name': 'МАОУ Лицей №3 г.Перми',
+      'url': 'https://api.hh.ru/employers/4675267',
+      'alternate_url': 'https://hh.ru/employer/4675267',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4675267',
+      'open_vacancies': 2
+    },
+    {
+      'id': '4669149',
+      'name': 'МАОУ Лицей № 5 г. Перми',
+      'url': 'https://api.hh.ru/employers/4669149',
+      'alternate_url': 'https://hh.ru/employer/4669149',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4669149',
+      'open_vacancies': 4
+    },
+    {
+      'id': '3506048',
+      'name': 'МАОУ Многопрофильная Школа Приоритет г. Перми',
+      'url': 'https://api.hh.ru/employers/3506048',
+      'alternate_url': 'https://hh.ru/employer/3506048',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/815527.png',
+        '240': 'https://hhcdn.ru/employer-logo/3702996.png',
+        '90': 'https://hhcdn.ru/employer-logo/3702995.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3506048',
+      'open_vacancies': 7
+    },
+    {
+      'id': '2490045',
+      'name': 'МАОУ Предметно-языковая школа Дуплекс г.Перми',
+      'url': 'https://api.hh.ru/employers/2490045',
+      'alternate_url': 'https://hh.ru/employer/2490045',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2490045',
+      'open_vacancies': 6
+    },
+    {
+      'id': '10665283',
+      'name': 'МАОУ СОШ №24 г.Перми',
+      'url': 'https://api.hh.ru/employers/10665283',
+      'alternate_url': 'https://hh.ru/employer/10665283',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10665283',
+      'open_vacancies': 1
+    },
+    {
+      'id': '3523477',
+      'name': 'МАОУ Средняя общеобразовательная школа №82 г.Перми',
+      'url': 'https://api.hh.ru/employers/3523477',
+      'alternate_url': 'https://hh.ru/employer/3523477',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3523477',
+      'open_vacancies': 4
+    },
+    {
+      'id': '10379342',
+      'name': 'МАОУ Траектория г. Перми',
+      'url': 'https://api.hh.ru/employers/10379342',
+      'alternate_url': 'https://hh.ru/employer/10379342',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10379342',
+      'open_vacancies': 1
+    },
+    {
+      'id': '10138825',
+      'name': 'МАОУ Школа дизайна Точка Г. Перми',
+      'url': 'https://api.hh.ru/employers/10138825',
+      'alternate_url': 'https://hh.ru/employer/10138825',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10138825',
+      'open_vacancies': 1
+    },
+    {
+      'id': '1814496',
+      'name': 'МАУ СШОР Орленок г.Перми',
+      'url': 'https://api.hh.ru/employers/1814496',
+      'alternate_url': 'https://hh.ru/employer/1814496',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1814496',
+      'open_vacancies': 3
+    },
+    {
+      'id': '560799',
+      'name': 'Международный аэропорт Пермь',
+      'url': 'https://api.hh.ru/employers/560799',
+      'alternate_url': 'https://hh.ru/employer/560799',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/352017.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/1850335.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/1850334.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=560799',
+      'open_vacancies': 14
+    },
+    {
+      'id': '5546136',
+      'name': 'МКУ Управление муниципальным жилищным фондом города Перми',
+      'url': 'https://api.hh.ru/employers/5546136',
+      'alternate_url': 'https://hh.ru/employer/5546136',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5546136',
+      'open_vacancies': 1
+    },
+    {
+      'id': '3942899',
+      'name': 'МКУ ЦБУиО г. Перми',
+      'url': 'https://api.hh.ru/employers/3942899',
+      'alternate_url': 'https://hh.ru/employer/3942899',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3942899',
+      'open_vacancies': 5
+    },
+    {
+      'id': '1286375',
+      'name': 'МЛ-ПЕРМЬ',
+      'url': 'https://api.hh.ru/employers/1286375',
+      'alternate_url': 'https://hh.ru/employer/1286375',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/839116.png',
+        '240': 'https://hhcdn.ru/employer-logo/3797348.png',
+        '90': 'https://hhcdn.ru/employer-logo/3797347.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1286375',
+      'open_vacancies': 1
+    },
+    {
+      'id': '5313070',
+      'name': 'Мотовилихинский районный суд г. Перми',
+      'url': 'https://api.hh.ru/employers/5313070',
+      'alternate_url': 'https://hh.ru/employer/5313070',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5313070',
+      'open_vacancies': 3
+    },
+    {
+      'id': '3374831',
+      'name': 'МУП НО г.Перми Горсвет',
+      'url': 'https://api.hh.ru/employers/3374831',
+      'alternate_url': 'https://hh.ru/employer/3374831',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3374831',
+      'open_vacancies': 3
+    },
+    {
+      'id': '357142',
+      'name': 'Оптимист - Пермь',
+      'url': 'https://api.hh.ru/employers/357142',
+      'alternate_url': 'https://hh.ru/employer/357142',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1111610.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/6067042.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/6067041.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=357142',
+      'open_vacancies': 5
+    },
+    {
+      'id': '10612447',
+      'name': 'Открытие Пермь',
+      'url': 'https://api.hh.ru/employers/10612447',
+      'alternate_url': 'https://hh.ru/employer/10612447',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10612447',
+      'open_vacancies': 1
+    },
+    {
+      'id': '6036893',
+      'name': 'Пермь-Восток-Сервис',
+      'url': 'https://api.hh.ru/employers/6036893',
+      'alternate_url': 'https://hh.ru/employer/6036893',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=6036893',
+      'open_vacancies': 3
+    },
+    {
+      'id': '10627688',
+      'name': 'Пермь-Газ-Гарант',
+      'url': 'https://api.hh.ru/employers/10627688',
+      'alternate_url': 'https://hh.ru/employer/10627688',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10627688',
+      'open_vacancies': 1
+    },
+    {
+      'id': '2761610',
+      'name': 'ПЕРМЬ-ГЛОБАЛСТРОЙСЕРВИС',
+      'url': 'https://api.hh.ru/employers/2761610',
+      'alternate_url': 'https://hh.ru/employer/2761610',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2761610',
+      'open_vacancies': 3
+    },
+    {
+      'id': '6080331',
+      'name': 'Персонамед-Пермь',
+      'url': 'https://api.hh.ru/employers/6080331',
+      'alternate_url': 'https://hh.ru/employer/6080331',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1167439.png',
+        '240': 'https://hhcdn.ru/employer-logo/6290195.png',
+        '90': 'https://hhcdn.ru/employer-logo/6290194.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=6080331',
+      'open_vacancies': 1
+    },
+    {
+      'id': '1992539',
+      'name': 'Полиграфыч-Пермь',
+      'url': 'https://api.hh.ru/employers/1992539',
+      'alternate_url': 'https://hh.ru/employer/1992539',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/617979.png',
+        '240': 'https://hhcdn.ru/employer-logo/2913069.png',
+        '90': 'https://hhcdn.ru/employer-logo/2913068.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1992539',
+      'open_vacancies': 1
+    },
+    {
+      'id': '1449106',
+      'name': 'Порт Пермь',
+      'url': 'https://api.hh.ru/employers/1449106',
+      'alternate_url': 'https://hh.ru/employer/1449106',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/332613.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/1772803.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1449106',
+      'open_vacancies': 17
+    },
+    {
+      'id': '3192921',
+      'name': 'Прогвартс Пермь',
+      'url': 'https://api.hh.ru/employers/3192921',
+      'alternate_url': 'https://hh.ru/employer/3192921',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1169216.png',
+        '240': 'https://hhcdn.ru/employer-logo/6297303.png',
+        '90': 'https://hhcdn.ru/employer-logo/6297302.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3192921',
+      'open_vacancies': 1
+    },
+    {
+      'id': '5858547',
+      'name': 'Проспект Пермь',
+      'url': 'https://api.hh.ru/employers/5858547',
+      'alternate_url': 'https://hh.ru/employer/5858547',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5858547',
+      'open_vacancies': 2
+    },
+    {
+      'id': '1471699',
+      'name': 'САМОЛЕТ ПЛЮС ПЕРМЬ',
+      'url': 'https://api.hh.ru/employers/1471699',
+      'alternate_url': 'https://hh.ru/employer/1471699',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1063007.jpeg',
+        '240': 'https://hhcdn.ru/employer-logo/5872662.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/5872661.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1471699',
+      'open_vacancies': 12
+    },
+    {
+      'id': '9076624',
+      'name': 'Свг-Пермь',
+      'url': 'https://api.hh.ru/employers/9076624',
+      'alternate_url': 'https://hh.ru/employer/9076624',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=9076624',
+      'open_vacancies': 6
+    },
+    {
+      'id': '785812',
+      'name': 'СТКС-Пермь',
+      'url': 'https://api.hh.ru/employers/785812',
+      'alternate_url': 'https://hh.ru/employer/785812',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/138015.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/527412.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/527411.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=785812',
+      'open_vacancies': 2
+    },
+    {
+      'id': '1278172',
+      'name': 'Стройземнедвижимость-Пермь',
+      'url': 'https://api.hh.ru/employers/1278172',
+      'alternate_url': 'https://hh.ru/employer/1278172',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/938287.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/4193693.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/4193692.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1278172',
+      'open_vacancies': 2
+    },
+    {
+      'id': '5319792',
+      'name': 'Судебный участок № 3 Мотовилихинского судебного района г. Перми',
+      'url': 'https://api.hh.ru/employers/5319792',
+      'alternate_url': 'https://hh.ru/employer/5319792',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5319792',
+      'open_vacancies': 1
+    },
+    {
+      'id': '9936658',
+      'name': 'Судебный участок № 5 Кировского судебного района г. Перми Пермского края',
+      'url': 'https://api.hh.ru/employers/9936658',
+      'alternate_url': 'https://hh.ru/employer/9936658',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=9936658',
+      'open_vacancies': 1
+    },
+    {
+      'id': '2146655',
+      'name': 'Техноавиа-Пермь',
+      'url': 'https://api.hh.ru/employers/2146655',
+      'alternate_url': 'https://hh.ru/employer/2146655',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2146655',
+      'open_vacancies': 5
+    },
+    {
+      'id': '4040823',
+      'name': 'УК ГРАНД ОТЕЛЬ ПЕРМЬ',
+      'url': 'https://api.hh.ru/employers/4040823',
+      'alternate_url': 'https://hh.ru/employer/4040823',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4040823',
+      'open_vacancies': 1
+    },
+    {
+      'id': '9959393',
+      'name': 'Управление по вопросам муниципальной службы и кадров администрации города Перми',
+      'url': 'https://api.hh.ru/employers/9959393',
+      'alternate_url': 'https://hh.ru/employer/9959393',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=9959393',
+      'open_vacancies': 3
+    },
+    {
+      'id': '1446855',
+      'name': 'ФГБУ ФЦССХ им. С.Г. Суханова Минздрава России (г.Пермь)',
+      'url': 'https://api.hh.ru/employers/1446855',
+      'alternate_url': 'https://hh.ru/employer/1446855',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1446855',
+      'open_vacancies': 5
+    },
+    {
+      'id': '4408121',
+      'name': 'ФГКУ Управление вневедомственной охраны по городу Перми',
+      'url': 'https://api.hh.ru/employers/4408121',
+      'alternate_url': 'https://hh.ru/employer/4408121',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1118231.jpg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4408121',
+      'open_vacancies': 4
+    },
+    {
+      'id': '985358',
+      'name': 'Филиал АКБ ФОРА-БАНК в г. Перми',
+      'url': 'https://api.hh.ru/employers/985358',
+      'alternate_url': 'https://hh.ru/employer/985358',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=985358',
+      'open_vacancies': 2
+    },
+    {
+      'id': '5153124',
+      'name': 'Финлайн-Автотрейд (г. Пермь)',
+      'url': 'https://api.hh.ru/employers/5153124',
+      'alternate_url': 'https://hh.ru/employer/5153124',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/819547.jpeg',
+        '240': 'https://hhcdn.ru/employer-logo/3719076.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/3719075.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5153124',
+      'open_vacancies': 4
+    },
+    {
+      'id': '5621822',
+      'name': 'Цветы Перми',
+      'url': 'https://api.hh.ru/employers/5621822',
+      'alternate_url': 'https://hh.ru/employer/5621822',
+      'logo_urls': None,
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5621822',
+      'open_vacancies': 1
+    },
+    {
+      'id': '3244091',
+      'name': 'Шарко-Центр г. Пермь',
+      'url': 'https://api.hh.ru/employers/3244091',
+      'alternate_url': 'https://hh.ru/employer/3244091',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/1168380.png',
+        '240': 'https://hhcdn.ru/employer-logo/6293959.png',
+        '90': 'https://hhcdn.ru/employer-logo/6293958.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3244091',
+      'open_vacancies': 2
+    },
+    {
+      'id': '6034279',
+      'name': 'Экомир-Пермь',
+      'url': 'https://api.hh.ru/employers/6034279',
+      'alternate_url': 'https://hh.ru/employer/6034279',
+      'logo_urls': {
+        'original': 'https://hhcdn.ru/employer-logo-original/940240.jpg',
+        '240': 'https://hhcdn.ru/employer-logo/4201505.jpeg',
+        '90': 'https://hhcdn.ru/employer-logo/4201504.jpeg'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=6034279',
+      'open_vacancies': 1
+    }
+  ],
+  'found': 73,
+  'pages': 1,
+  'page': 0,
+  'per_page': 100
+}
