@@ -17,7 +17,7 @@ class VacanciesAPI(ABC):
         pass
 
     @abstractmethod
-    def get__employers(self):
+    def get_employers(self):
         pass
 
     @abstractmethod
@@ -29,20 +29,19 @@ class HeadHunterAPI(VacanciesAPI):
     vacancies_url = 'https://api.hh.ru/vacancies'
     employers_url = 'https://api.hh.ru/employers'
 
-    def get_vacancies(self, id_list):
+    def get_vacancies(self, employers_id_list: list[int]):
         """Получает вакансии с сайта"""
-        id_list = id_list.split(', ')
-        id_list = [int(i) for i in id_list]
-        response = requests.get(self.vacancies_url, params={'employer_id': id_list, 'per_page': 100})
+        response = requests.get(self.vacancies_url, params={'employer_id': employers_id_list, 'per_page': 100})
+        # print(response.json())
         return response.json()
 
-    def get_employers(self, city):
+    def get_employers(self, city: str):
         """Получает информацию о работодателях с сайта"""
         response = requests.get(self.employers_url, params={'text': city, 'only_with_vacancies': True, 'per_page': 100})
-        print(response.json())
+        # print(response.json())
         return response.json()
 
-    def save_vacancies_to_json(self, filename, data):
+    def save_vacancies_to_json(self, filename, data) -> None:
         """Сохраняет вакансии в файл"""
         for vacancy in data['items']:
             name = vacancy['name']
@@ -54,7 +53,7 @@ class HeadHunterAPI(VacanciesAPI):
             new_vacancy = Vacancy(name, url, salary, requirements, employer, description)
             JSONSaver.add_vacancy('hh_vacancies.json', new_vacancy)
 
-    def save_employers_to_json(self, filename, data):
+    def save_employers_to_json(self, filename, data) -> None:
         """Сохраняет информацию о работодателях в файл"""
         for employer in data['items']:
             employer_id = employer['id']
