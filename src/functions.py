@@ -1,5 +1,5 @@
 from typing import Any
-from datetime import date
+from datetime import datetime
 import psycopg2
 
 
@@ -31,13 +31,10 @@ def create_database(database_name: str, params: dict) -> None:
     """Создание базы данных с информацией о вакансиях и работодателях"""
     conn = psycopg2.connect(dbname='postgres', **params)
     conn.autocommit = True
-
     with conn.cursor() as cur:
         cur.execute(f"DROP DATABASE IF EXISTS {database_name}")
-
     with conn.cursor() as cur:
         cur.execute(f"CREATE DATABASE {database_name}")
-
     conn.close()
 
     conn = psycopg2.connect(dbname=database_name, **params)
@@ -45,27 +42,26 @@ def create_database(database_name: str, params: dict) -> None:
         with conn:
             with conn.cursor() as cur:
                 cur.execute("""
+                    CREATE TABLE employers (
+                        employer_id int PRIMARY KEY,
+                        name varchar(100) NOT NULL,
+                        vacancies_count smallint NOT NULL
+                    )
+                """)
+            with conn.cursor() as cur:
+                cur.execute("""
                     CREATE TABLE vacancies (
-                        id smallint SERIAL PRIMARY KEY,
+                        id SERIAL PRIMARY KEY,
                         title varchar(100) NOT NULL,
-                        employer_id smallint REFERENCES employers(employer_id), 
+                        employer_id int REFERENCES employers(employer_id), 
                         publish_date date NOT NULL,
                         url varchar(100) NOT NULL, 
-                        salary_from smallint,
-                        salary_to smallint,
-                        salary_currency varchar(3)
+                        salary_from int,
+                        salary_to int,
+                        salary_currency varchar(3),
                         salary_gross boolean,
                         requirements text, 
                         description text
-                    )
-                """)
-
-            with conn.cursor() as cur:
-                cur.execute("""
-                    CREATE TABLE employers (
-                        employer_id smallint PRIMARY KEY,
-                        name NOT NULL,
-                        vacancies_count NOT NULL
                     )
                 """)
     finally:
@@ -97,11 +93,11 @@ def save_data_to_database(database_name: str, data: list[dict[str, Any]], params
                             (title, employer_id, publish_date, url, 
                             salary_from, salary_to, salary_currency, salary_gross,
                             requirements, description)
-                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                             """,
                             (vacancy['name'],
                              vacancy['employer']['id'],
-                             date(vacancy['published_at']),
+                             datetime.fromisoformat(vacancy['published_at']),
                              vacancy['alternate_url'],
                              vacancy['salary']['from'],
                              vacancy['salary']['to'],
