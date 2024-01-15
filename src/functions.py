@@ -1,6 +1,6 @@
 from typing import Any
 from datetime import date
-# import psycopg2
+import psycopg2
 
 
 def print_employers(data) -> None:
@@ -31,10 +31,12 @@ def create_database(database_name: str, params: dict) -> None:
     """Создание базы данных с информацией о вакансиях и работодателях"""
     conn = psycopg2.connect(dbname='postgres', **params)
     conn.autocommit = True
-    cur = conn.cursor()
 
-    cur.execute(f"DROP DATABASE {database_name}")
-    cur.execute(f"CREATE DATABASE {database_name}")
+    with conn.cursor() as cur:
+        cur.execute(f"DROP DATABASE IF EXISTS {database_name}")
+
+    with conn.cursor() as cur:
+        cur.execute(f"CREATE DATABASE {database_name}")
 
     conn.close()
 

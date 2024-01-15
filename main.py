@@ -1,7 +1,7 @@
 from src.vacancies_API import HeadHunterAPI
 from src.functions import print_employers, get_data, create_database, save_data_to_database
 from src.config import config
-# from src.DBManager import DBManager, DATABASE_NAME
+from src.DBManager import DBManager, DATABASE_NAME
 
 
 def main():
@@ -49,50 +49,50 @@ def main():
         # Получение параметров подключения к БД
         params = config()
 
-        # # Создание БД
-        # create_database(DATABASE_NAME, params)
-        #
-        # # Сохранение данных в БД
-        # save_data_to_database(DATABASE_NAME, data, params)
-        #
-        # # Работа с БД
-        # db = DBManager()
-        #
-        # result = db.get_companies_and_vacancies_count()
-        # if result:
-        #     print('Список всех компаний и количество вакансий')
-        #     print(result)
-        # else:
-        #     print("Нет компаний, соответствующих заданным критериям")
-        #
-        # result = db.get_all_vacancies()
-        # if result:
-        #     print('Список всех вакансий')
-        #     print(result)
-        # else:
-        #     print('Нет вакансий, соответствующих заданным критериям')
-        #
-        # result = db.get_avg_salary()
-        # if result:
-        #     print('Средняя зарплата по вакансиям')
-        #     print(result)
-        # else:
-        #     print('Средняя зарплата не найдена')
-        #
-        # result = db.get_vacancies_with_higher_salary()
-        # if result:
-        #     print('Список вакансий, зарплата которых выше средней')
-        #     print(result)
-        # else:
-        #     print('Нет вакансий, соответствующих заданным критериям')
-        #
-        # keyword = input("Введите ключевое слово для фильтрации вакансий: ")
-        # result = db.get_vacancies_with_keyword(keyword)
-        # if result:
-        #     print(f'Список вакансий по запросу {keyword}')
-        #     print(result)
-        # else:
-        #     print('Нет вакансий, соответствующих заданным критериям')
+        # Создание БД
+        create_database(DATABASE_NAME, params)
+
+        # Сохранение данных в БД
+        save_data_to_database(DATABASE_NAME, data, params)
+
+        # Работа с БД
+        db = DBManager()
+
+        result = db.get_companies_and_vacancies_count()
+        if result:
+            print('Список всех компаний и количество вакансий')
+            print(result)
+        else:
+            print("Нет компаний, соответствующих заданным критериям")
+
+        result = db.get_all_vacancies()
+        if result:
+            print('Список всех вакансий')
+            print(result)
+        else:
+            print('Нет вакансий, соответствующих заданным критериям')
+
+        result = db.get_avg_salary()
+        if result:
+            print('Средняя зарплата по вакансиям')
+            print(result)
+        else:
+            print('Средняя зарплата не найдена')
+
+        result = db.get_vacancies_with_higher_salary()
+        if result:
+            print('Список вакансий, зарплата которых выше средней')
+            print(result)
+        else:
+            print('Нет вакансий, соответствующих заданным критериям')
+
+        keyword = input("Введите ключевое слово для фильтрации вакансий: ")
+        result = db.get_vacancies_with_keyword(keyword)
+        if result:
+            print(f'Список вакансий по запросу {keyword}')
+            print(result)
+        else:
+            print('Нет вакансий, соответствующих заданным критериям')
 
     else:
         print("Вакансии не найдены.\nЗавершение работы программы ...")

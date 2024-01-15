@@ -1,14 +1,13 @@
-# import psycopg2
+import psycopg2
 from src.config import config
-DATABASE_NAME = 'HeadHunter'
+DATABASE_NAME = 'headhunter'
 
 
 class DBManager:
-    params = config()
-    conn = psycopg2.connect(dbname=DATABASE_NAME, **params)
 
     def __init__(self):
-        pass
+        params = config()
+        conn = psycopg2.connect(dbname=DATABASE_NAME, **params)
 
     def get_companies_and_vacancies_count(self):
         """получает список всех компаний и количество вакансий у каждой компании"""
