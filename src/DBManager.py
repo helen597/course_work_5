@@ -59,7 +59,9 @@ class DBManager:
             f"""
             SELECT *
             FROM vacancies
-            WHERE {keyword} IN name
+            WHERE title LIKE '%{keyword}%'
+            OR requirements LIKE '%{keyword}%'
+            OR description LIKE '%{keyword}%'
             """)
         result = self.cur.fetchall()
         return result

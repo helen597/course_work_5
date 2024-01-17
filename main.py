@@ -93,7 +93,8 @@ def main():
         result = db.get_vacancies_with_keyword(keyword)
         if result:
             print(f'Список вакансий по запросу {keyword}')
-            print(result)
+            for i, vacancy in enumerate(result, 1):
+                print(i, vacancy)
         else:
             print('Нет вакансий, соответствующих заданным критериям')
 
