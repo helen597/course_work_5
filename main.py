@@ -61,14 +61,16 @@ def main():
         result = db.get_companies_and_vacancies_count()
         if result:
             print('Список всех компаний и количество вакансий')
-            print(result)
+            for employer in result:
+                print(employer)
         else:
             print("Нет компаний, соответствующих заданным критериям")
 
         result = db.get_all_vacancies()
         if result:
             print('Список всех вакансий')
-            print(result)
+            for i, vacancy in enumerate(result, 1):
+                print(i, vacancy)
         else:
             print('Нет вакансий, соответствующих заданным критериям')
 
@@ -82,7 +84,8 @@ def main():
         result = db.get_vacancies_with_higher_salary()
         if result:
             print('Список вакансий, зарплата которых выше средней')
-            print(result)
+            for i, vacancy in enumerate(result, 1):
+                print(i, vacancy)
         else:
             print('Нет вакансий, соответствующих заданным критериям')
 

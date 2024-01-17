@@ -99,10 +99,10 @@ def save_data_to_database(database_name: str, data: list[dict[str, Any]], params
                              vacancy['employer']['id'],
                              datetime.fromisoformat(vacancy['published_at']),
                              vacancy['alternate_url'],
-                             vacancy['salary']['from'],
-                             vacancy['salary']['to'],
-                             vacancy['salary']['currency'],
-                             vacancy['salary']['gross'],
+                             vacancy['salary']['from'] if vacancy.get('salary') else None,
+                             vacancy['salary']['to'] if vacancy.get('salary') else None,
+                             vacancy['salary']['currency'] if vacancy.get('salary') else None,
+                             vacancy['salary']['gross'] if vacancy.get('salary') else None,
                              vacancy['snippet']['requirement'],
                              vacancy['snippet']['responsibility'])
                         )
